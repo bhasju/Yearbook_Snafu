@@ -1,0 +1,8 @@
+TODO
+. convert html to jade template. Can be done online. https://html2jade.org/ reflect change in controller/main
+. Review the schema at /models/yearbook.js
+. change template to add dropdown menu of students to select from. Ad JS to reflect changes
+. Set up the rest api in routes. Eta niye porte hbe
+. uploading the database to server. atlas.mongodb mongolab mlab etc ache. Check korte hbe
+. profit
+
